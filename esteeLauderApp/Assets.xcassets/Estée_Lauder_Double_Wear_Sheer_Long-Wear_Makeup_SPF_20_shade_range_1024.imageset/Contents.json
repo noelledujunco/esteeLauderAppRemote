@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Estée_Lauder_Double_Wear_Sheer_Long-Wear_Makeup_SPF_20_shade_range_1024.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
