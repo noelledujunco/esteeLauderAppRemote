@@ -90,6 +90,13 @@
                                 <color key="textColor" red="0.30413510101010099" green="0.21675797594771504" blue="0.14276388926554157" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="&quot;Click the beige title!&quot;" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E8W-vw-wBC">
+                                <rect key="frame" x="160" y="856" width="94" height="12"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="10"/>
+                                <color key="textColor" red="0.22806973229999999" green="0.1567384091" blue="0.1241268239" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.87856616373505148" green="0.74457637432850632" blue="0.51050908542722995" alpha="0.82591943027210879" colorSpace="custom" customColorSpace="displayP3"/>
@@ -562,7 +569,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Ldy-1O-zey"/>
+        <segue reference="L36-ka-bQO"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="0" width="3000" height="3000"/>
